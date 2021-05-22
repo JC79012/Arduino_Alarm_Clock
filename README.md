@@ -14,9 +14,11 @@
 * 12V battery
 * 100K resistor
 * Potentiometer
+</br>
+</br>
+</br>
 
-
-![alarm_clock_circuit]()
+<img src="https://github.com/JC79012/Arduino_Alarm_Clock/blob/main/final_embedded_circuit.jpg" width ="600" height="450">
 
 
 
