@@ -16,6 +16,8 @@
 * Potentiometer
 
 
+![alarm_clock_circuit]()
+
 
 
 
